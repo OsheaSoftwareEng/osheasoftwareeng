@@ -2,11 +2,12 @@
 <a href="https://freeimage.host/"><img src="https://iili.io/HvEaBZF.jpg" alt="HvEaBZF.jpg" border="0" /></a>
 </div>
 
-# 💫 About Me:
+# 📑 About Me:
 A very passionate Software Engineer with a heavy focus on frontend development, <br>clean UI/UX, with backend skills to ensure an awesome user experience. <br>I'm motivated to make people's lives easier with the tools of <br>technology!<br>  
 
 
-## 🌐 Socials:
+## 📲 Socials: 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/osheasanders/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/OsheaTheCoder) 
 
 # 💻 Tech Stack:
