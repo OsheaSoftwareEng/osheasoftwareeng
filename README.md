@@ -16,7 +16,7 @@ A very passionate Software Engineer with a heavy focus on frontend development, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OsheaSoftwareEng&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OsheaSoftwareEng&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-https://www.codewars.com/users/OsheaSoftwareEng/badges/large
+<a href="#"><img src="https://www.codewars.com/users/OsheaSoftwareEng/badges/large"/></a>
 
 
 ### ✍️ Random Dev Quote
