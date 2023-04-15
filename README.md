@@ -1,5 +1,5 @@
 <div align="center";>
-<a href="https://freeimage.host/i/HvEaBZF"><img style="width:70%; height:auto;" src="https://iili.io/HvEaBZF.md.jpg" alt="HvEaBZF.md.jpg" ></a><br />
+<a href="https://freeimage.host/"><img src="https://iili.io/HvEaBZF.jpg" alt="HvEaBZF.jpg" border="0" /></a>
 </div>
 
 # 💫 About Me:
