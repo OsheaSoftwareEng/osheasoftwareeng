@@ -12,7 +12,7 @@ A very passionate Software Engineer with a heavy focus on frontend development, 
     <td width="50%" valign="top">
       <h3 align="center">NostalgicFlix <br> Full Stack Application</h3>
         <br />
-        <a target="_blank" href="https://nostalgicflix.com">
+        <a href="https://nostalgicflix.com" target="_blank">
             <img src="https://imgur.com/HKGugG2.png" width="100%" alt="Movie App"/>
         </a>
         <br />
