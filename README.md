@@ -30,8 +30,8 @@ A very passionate Software Engineer with a heavy focus on frontend development, 
     <td width="50%" valign="top">
       <h3 align="center">QuickPay <br> Pay-Calculator</h3>
         <br />
-      <a target="_blank" href="https://quickpaypc.netlify.app/">
-            <img src="https://imgur.com/PTJgFdU.png" width="100%"  alt="Pay Calculator"/>
+      <a target="_blank" href="https://quickpaypc.com/">
+            <img src="https://imgur.com/CPaoeWB.png" width="100%"  alt="Pay Calculator"/>
         </a>
         <br />
         <p align="center">
