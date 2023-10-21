@@ -46,6 +46,23 @@ A very passionate Software Engineer with a heavy focus on frontend development, 
         <p><strong>HTML5, CSS, Javascript & Charts.js</strong> - The quickest way to figure out how much your net check with be just enter your wage and hours.</p>
     </td>
   </tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Stay Chatty</h3>
+        <br />
+      <a target="_blank" href="https://github.com/OsheaSoftwareEng/Stay-Chatty">
+              <img src="https://imgur.com/FlZPgbj.png" width="48%"  alt="Home screen preview"/>
+            <img src="https://imgur.com/SsOPglJ.png" width="48%"  alt="Chat screen preview"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/OsheaSoftwareEng/Stay-Chatty" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+      </p>
+        <p><strong>React Native, Expo, Gifted Chat, Firebase</strong> - Stay Chatty is an mobile application that allows you to communicate with friends, with features such as, location sharing and sending pictures.</p>
+    </td>
+  </tr>
 </table>
 
 ## 📲 Connect: 
